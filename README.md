@@ -58,4 +58,4 @@ This is a Python-based script that generates **probable password combinations** 
 
 ## Author
 
-[Mithun Kailash]
+Mithun Kailash
